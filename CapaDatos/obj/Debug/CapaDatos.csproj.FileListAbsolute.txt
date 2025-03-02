@@ -1,0 +1,16 @@
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dorot\Source\Repos\SistemaBanco\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\dorot\OneDrive\Desktop\SistemaBanco2\CapaDatos\obj\Debug\CapaDatos.pdb
